@@ -7,6 +7,8 @@
 I'm a starry-eyed developer that has recently graduated from General Assembly. Even though my tutelage was short, I developed many skills from my months of projects - debugging, feature design, and team collaboration just to name a few. I also do not intend to let my skills wane from here on out; it is only full steam ahead from here on out!
 
 My favorite languages so far is javascript and python. I feel with JS that I can code anything and everything frontend while having fun making a beautiful website in the process. I also had the opportunity to develop my python skills to round out my backend skillset, and the strength and simplicity of the language has made it a go-to when I want to develop an MVP for clients.  
+
+- Currently working on refining my coding skills in Javascript and Python once again!
   
 
 <div align="center">
