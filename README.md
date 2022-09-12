@@ -33,16 +33,17 @@ My favorite languages so far is javascript and python. I feel with JS that I can
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🎮 I’m currently working on a [Steam Mock Up](#)  
+- 🎮 I’m currently working on Unity 3D Game Development(#)  
   
 
-- 🌱 I’m developing my skills in Javascript, React, and Material UI  
+- 🌱 I’m developing my skills in Javascript, Python, and C# 
   
 
 - ❓ Lets figure out MERN and "this" together  
   
 
-- ⚡ Fun fact: Owning a rabbit is not as easy as websites tell you! Don't fall for it like I did!  
+- ⚡ Fun fact: - Owning a rabbit is not as easy as websites tell you! Don't fall for it like I did!  
+
 
 
 </td><td valign="top" width="50%">
