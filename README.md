@@ -42,8 +42,8 @@ My favorite languages so far is javascript and python. I feel with JS that I can
 - ❓ Lets figure out MERN and "this" together  
   
 
-- ⚡ Fun fact: - Owning a rabbit is not as easy as websites tell you! Don't fall for it like I did!  
-
+- ⚡ Fun fact:  Owning a rabbit is not as easy as websites tell you! Don't fall for it like I did!  
+- ⚡ Fun fact:  I made my first game earlier this year and I'm excited to keep making more and polishing them! 
 
 
 </td><td valign="top" width="50%">
