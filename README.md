@@ -33,17 +33,11 @@ My favorite languages so far is javascript and python. I feel with JS that I can
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🎮 I’m currently working on Unity 3D Game Development(#)  
-  
-
-- 🌱 I’m developing my skills in Javascript, Python, and C# 
-  
-
-- ❓ Lets figure out MERN and "this" together  
+- 🎮 I’m currently working on Unity 3D Game Development(#), as well as developing websites using Javascript, Python, and Django 
   
 
 - ⚡ Fun fact:  Owning a rabbit is not as easy as websites tell you! Don't fall for it like I did!  
-- ⚡ Fun fact:  I made my first game earlier this year and I'm excited to keep making more and polishing them! 
+- ⚡ Fun fact:  I am a mechanical engineer turning into the software engineering side! Magical!
 
 
 </td><td valign="top" width="50%">
